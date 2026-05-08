@@ -1,0 +1,34 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: Todo App
+        - heading "Todo List" [level=1] [ref=e8]
+      - button "Select color theme" [ref=e10]:
+        - img
+        - generic [ref=e11]: Forest (Night)
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - heading "My Tasks" [level=2] [ref=e16]
+          - paragraph [ref=e17]: Organize your day efficiently
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: Friday, May 8
+          - paragraph [ref=e23]: 17:24
+      - textbox "What needs to be done?" [ref=e25]
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e32]: "0"
+          - generic [ref=e33]: active
+        - generic [ref=e34]:
+          - generic [ref=e37]: "0"
+          - generic [ref=e38]: completed
+        - generic [ref=e39]:
+          - text: "Total:"
+          - generic [ref=e41]: "0"
+      - list [ref=e42]:
+        - listitem [ref=e43]:
+          - generic [ref=e45]: 📝
+          - heading "No tasks" [level=3] [ref=e46]
+          - paragraph [ref=e47]: Add your first task to start planning your day.
+  - alert [ref=e48]

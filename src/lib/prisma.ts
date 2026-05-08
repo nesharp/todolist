@@ -21,10 +21,14 @@ if (
   globalForPrisma.__prismaClientKind = PRISMA_CLIENT_KIND;
 }
 
-const databaseUrl = process.env.DATABASE_URL ?? "file:./dev.db";
+const databaseUrl = process.env.DATABASE_URL?.trim() || "file:./dev.db";
+const authToken =
+  process.env.TURSO_AUTH_TOKEN?.trim() ||
+  process.env.TURSO_AUTH_TOKEN2?.trim();
 
 const adapter = new PrismaLibSql({
   url: databaseUrl,
+  authToken,
 });
 
 export const prisma =

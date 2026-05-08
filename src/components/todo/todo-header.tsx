@@ -5,17 +5,19 @@ import { formatTodayDate, formatNowTime } from "./utils";
 import { motion, AnimatePresence } from "framer-motion";
 
 export function TodoHeader() {
-  const [now, setNow] = useState(() => new Date());
+  const [now, setNow] = useState<Date | null>(null);
 
   useEffect(() => {
+    setNow(new Date());
+
     const timer = setInterval(() => {
       setNow(new Date());
     }, 1000);
     return () => clearInterval(timer);
   }, []);
 
-  const dateLabel = formatTodayDate(now);
-  const timeLabel = formatNowTime(now);
+  const dateLabel = now ? formatTodayDate(now) : "";
+  const timeLabel = now ? formatNowTime(now) : "";
 
   return (
     <div className="mb-8 flex flex-col gap-4 border-b border-border/40 pb-6 md:flex-row md:items-end md:justify-between">

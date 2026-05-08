@@ -1,0 +1,46 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: Todo App
+        - heading "Todo List" [level=1] [ref=e8]
+      - button "Select color theme" [ref=e10]:
+        - img
+        - generic [ref=e11]: Forest (Night)
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - heading "My Tasks" [level=2] [ref=e16]
+          - paragraph [ref=e17]: Organize your day efficiently
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: Friday, May 8
+          - paragraph [ref=e23]: 17:27
+      - textbox "What needs to be done?" [ref=e25]
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e32]: "2"
+          - generic [ref=e33]: active
+        - generic [ref=e34]:
+          - generic [ref=e37]: "0"
+          - generic [ref=e38]: completed
+        - generic [ref=e39]:
+          - text: "Total:"
+          - generic [ref=e41]: "2"
+      - list [ref=e42]:
+        - listitem [ref=e43]:
+          - generic [ref=e44]:
+            - button "Mark as complete" [ref=e45]
+            - generic [ref=e46]:
+              - generic [ref=e48]: Playwright final verification todo
+              - generic [ref=e49]: May 8, 17:27
+            - button "Delete task" [ref=e50]:
+              - img
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - button "Mark as complete" [ref=e53]
+            - generic [ref=e54]:
+              - generic [ref=e56]: Playwright smoke test todo
+              - generic [ref=e57]: May 8, 17:25
+            - button "Delete task" [ref=e58]:
+              - img
+  - alert [ref=e59]

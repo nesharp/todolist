@@ -2,6 +2,7 @@
 
 import { Trash2, Check } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { useEffect, useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -18,6 +19,12 @@ export function TaskRow({
   onToggle: (task: UiTask) => void;
   onDelete: (task: UiTask) => void;
 }) {
+  const [createdAtLabel, setCreatedAtLabel] = useState("");
+
+  useEffect(() => {
+    setCreatedAtLabel(formatTaskCreatedAt(task.createdAt));
+  }, [task.createdAt]);
+
   return (
     <motion.div
       whileHover={{ scale: 1.01, transition: { duration: 0.2 } }}
@@ -82,7 +89,7 @@ export function TaskRow({
           </AnimatePresence>
         </div>
         <span className="text-xs text-muted-foreground/70">
-          {formatTaskCreatedAt(task.createdAt)}
+          {createdAtLabel}
         </span>
       </div>
 
