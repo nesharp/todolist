@@ -22,6 +22,7 @@ type ThemeProviderProps = {
 type ThemeContextValue = {
   theme: AppTheme;
   setTheme: (nextTheme: AppTheme) => void;
+  mounted: boolean;
 };
 
 const ThemeContext = createContext<ThemeContextValue | null>(null);
@@ -30,18 +31,18 @@ const STORAGE_KEY = "todo-theme";
 export function ThemeProvider({
   children,
   defaultTheme,
-  themes,
   attribute = "data-theme",
 }: ThemeProviderProps) {
-  const [theme, setThemeState] = useState<AppTheme>(() => {
-    if (typeof window === "undefined") return defaultTheme;
+  const [theme, setThemeState] = useState<AppTheme>(defaultTheme);
+  const [mounted, setMounted] = useState(false);
 
+  useEffect(() => {
+    setMounted(true);
     const storedTheme = window.localStorage.getItem(STORAGE_KEY);
-    if (!storedTheme || !isAppTheme(storedTheme)) return defaultTheme;
-    if (themes && !themes.includes(storedTheme)) return defaultTheme;
-
-    return storedTheme;
-  });
+    if (storedTheme && isAppTheme(storedTheme) && storedTheme !== defaultTheme) {
+      setThemeState(storedTheme);
+    }
+  }, [defaultTheme]);
 
   const applyTheme = useCallback(
     (nextTheme: AppTheme) => {
@@ -52,8 +53,10 @@ export function ThemeProvider({
   );
 
   useEffect(() => {
-    applyTheme(theme);
-  }, [theme, applyTheme]);
+    if (mounted) {
+      applyTheme(theme);
+    }
+  }, [theme, applyTheme, mounted]);
 
   const setTheme = useCallback(
     (nextTheme: AppTheme) => {
@@ -65,8 +68,8 @@ export function ThemeProvider({
   );
 
   const value = useMemo<ThemeContextValue>(
-    () => ({ theme, setTheme }),
-    [theme, setTheme]
+    () => ({ theme, setTheme, mounted }),
+    [theme, setTheme, mounted]
   );
 
   return <ThemeContext.Provider value={value}>{children}</ThemeContext.Provider>;

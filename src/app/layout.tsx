@@ -18,8 +18,8 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Todo List",
-  description: "Local task list with themes and SQLite.",
+  title: "My Task Manager — Stylish Todo List",
+  description: "A convenient tool for managing daily tasks with theme customization.",
 };
 
 export default async function RootLayout({
