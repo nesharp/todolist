@@ -14,29 +14,29 @@ type AppHeaderProps = {
   initialTheme: AppTheme;
 };
 
-const labelsUk: Record<AppTheme, string> = {
-  light: "Світла",
-  dark: "Темна",
-  "ocean-light": "Океан (день)",
-  "ocean-dark": "Океан (ніч)",
-  "forest-light": "Ліс (день)",
-  "forest-dark": "Ліс (ніч)",
-  "sunset-light": "Захід (день)",
-  "sunset-dark": "Захід (ніч)",
-  "lavender-light": "Лаванда (день)",
-  "lavender-dark": "Лаванда (ніч)",
-  "rose-light": "Троянда (день)",
-  "rose-dark": "Троянда (ніч)",
-  "mint-light": "Мʼята (день)",
-  "mint-dark": "Мʼята (ніч)",
-  "amber-light": "Бурштин (день)",
-  "amber-dark": "Бурштин (ніч)",
-  "slate-light": "Сланець (день)",
-  "slate-dark": "Сланець (ніч)",
-  "cyber-light": "Кібер (день)",
-  "cyber-dark": "Кібер (ніч)",
-  "mono-light": "Моно (день)",
-  "mono-dark": "Моно (ніч)",
+const labelsEn: Record<AppTheme, string> = {
+  light: "Light",
+  dark: "Dark",
+  "ocean-light": "Ocean (Day)",
+  "ocean-dark": "Ocean (Night)",
+  "forest-light": "Forest (Day)",
+  "forest-dark": "Forest (Night)",
+  "sunset-light": "Sunset (Day)",
+  "sunset-dark": "Sunset (Night)",
+  "lavender-light": "Lavender (Day)",
+  "lavender-dark": "Lavender (Night)",
+  "rose-light": "Rose (Day)",
+  "rose-dark": "Rose (Night)",
+  "mint-light": "Mint (Day)",
+  "mint-dark": "Mint (Night)",
+  "amber-light": "Amber (Day)",
+  "amber-dark": "Amber (Night)",
+  "slate-light": "Slate (Day)",
+  "slate-dark": "Slate (Night)",
+  "cyber-light": "Cyber (Day)",
+  "cyber-dark": "Cyber (Night)",
+  "mono-light": "Mono (Day)",
+  "mono-dark": "Mono (Night)",
 };
 
 export function AppHeader({ initialTheme }: AppHeaderProps) {
@@ -49,7 +49,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
     return initialTheme;
   }, [theme, initialTheme]);
 
-  const selectedLabel = labelsUk[activeTheme];
+  const selectedLabel = labelsEn[activeTheme];
 
   const onThemeChange = (nextTheme: AppTheme) => {
     setTheme(nextTheme);
@@ -78,7 +78,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
           Todo App
         </div>
         <h1 className="text-3xl font-bold tracking-tight md:text-4xl">
-          Список справ
+          Todo List
         </h1>
       </div>
 
@@ -90,7 +90,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
           onClick={() => setIsOpen((prev) => !prev)}
           aria-expanded={isOpen}
           aria-haspopup="listbox"
-          aria-label="Обрати колірну тему"
+          aria-label="Select color theme"
         >
           <Palette className="h-4 w-4 shrink-0 text-primary" />
           <span className="min-w-0 flex-1 truncate text-left">
@@ -103,7 +103,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
             <button
               type="button"
               className="fixed inset-0 z-20 cursor-default bg-transparent"
-              aria-label="Закрити вибір теми"
+              aria-label="Close theme selection"
               onClick={() => setIsOpen(false)}
             />
             <div
@@ -112,11 +112,11 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
             >
               <div className="flex items-center justify-between border-b border-border px-3 py-2">
                 <p className="text-xs font-medium text-muted-foreground">
-                  {APP_THEMES.length} гами — обери палітру
+                  {APP_THEMES.length} palettes — choose your style
                 </p>
                 {isSaving ? (
                   <span className="text-xs text-muted-foreground">
-                    збереження…
+                    saving...
                   </span>
                 ) : null}
               </div>
@@ -136,7 +136,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
                         active && "border-primary bg-accent/80"
                       )}
                     >
-                      <span className="truncate">{labelsUk[themeName]}</span>
+                      <span className="truncate">{labelsEn[themeName]}</span>
                       {active ? (
                         <Check className="h-4 w-4 shrink-0 text-primary" />
                       ) : null}

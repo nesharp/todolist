@@ -7,7 +7,7 @@ export function sortByCreatedAtDesc(tasks: UiTask[]) {
 }
 
 export function formatTodayDate(now: Date) {
-  return now.toLocaleDateString("uk-UA", {
+  return now.toLocaleDateString("en-US", {
     weekday: "long",
     day: "numeric",
     month: "long",
@@ -15,18 +15,20 @@ export function formatTodayDate(now: Date) {
 }
 
 export function formatNowTime(now: Date) {
-  return now.toLocaleTimeString("uk-UA", {
+  return now.toLocaleTimeString("en-US", {
     hour: "2-digit",
     minute: "2-digit",
+    hour12: false,
   });
 }
 
 export function formatTaskCreatedAt(createdAt: string) {
-  return new Date(createdAt).toLocaleString("uk-UA", {
+  return new Date(createdAt).toLocaleString("en-US", {
     day: "numeric",
     month: "short",
     hour: "2-digit",
     minute: "2-digit",
+    hour12: false,
   });
 }
 

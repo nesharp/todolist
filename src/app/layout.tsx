@@ -18,8 +18,8 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Список справ",
-  description: "Локальний список задач з темами оформлення та SQLite.",
+  title: "Todo List",
+  description: "Local task list with themes and SQLite.",
 };
 
 export default async function RootLayout({
@@ -31,7 +31,7 @@ export default async function RootLayout({
 
   return (
     <html
-      lang="uk"
+      lang="en"
       className={`${onest.variable} ${jetBrainsMono.variable} h-full antialiased`}
       suppressHydrationWarning
     >

@@ -39,7 +39,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
   const addTask = () => {
     const text = newTask.trim();
     if (text.length < 2) {
-      setError("Введи мінімум 2 символи.");
+      setError("Enter at least 2 characters.");
       return;
     }
 
@@ -66,7 +66,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
       } catch {
         setTasks((prev) => prev.filter((task) => task.id !== optimisticId));
         setNewTask(text);
-        setError("Не вдалося зберегти задачу в базі.");
+        setError("Failed to save task to database.");
       } finally {
         endMutation();
       }
@@ -109,7 +109,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
               : item
           )
         );
-        setError("Оновлення не збереглося в базі.");
+        setError("Failed to update task.");
       } finally {
         endMutation();
       }
@@ -140,7 +140,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
             { ...deletedTask, isPending: false },
           ]);
         });
-        setError("Видалення не виконалось, спробуй ще раз.");
+        setError("Failed to delete task, please try again.");
       } finally {
         endMutation();
       }
