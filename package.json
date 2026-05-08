@@ -10,8 +10,7 @@
     "lint": "eslint",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "DATABASE_URL=file:./dev.db prisma migrate dev",
-    "prisma:studio": "prisma studio",
-    "turso:bootstrap": "node --env-file=.env scripts/bootstrap-turso.mjs"
+    "prisma:studio": "prisma studio"
   },
   "dependencies": {
     "@libsql/client": "^0.17.3",

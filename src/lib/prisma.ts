@@ -22,11 +22,9 @@ if (
 }
 
 const databaseUrl = process.env.DATABASE_URL ?? "file:./dev.db";
-const authToken = process.env.TURSO_AUTH_TOKEN;
 
 const adapter = new PrismaLibSql({
   url: databaseUrl,
-  authToken: authToken && authToken.length > 0 ? authToken : undefined,
 });
 
 export const prisma =
