@@ -17,7 +17,6 @@ export function TodoApp({ initialTasks }: TodoAppProps) {
     tasks,
     newTask,
     error,
-    isSaving,
     remaining,
     completed,
     total,

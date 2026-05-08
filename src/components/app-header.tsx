@@ -2,10 +2,10 @@
 
 import { motion } from "framer-motion";
 import { Check, Palette } from "lucide-react";
-import { useTheme } from "next-themes";
 import { useMemo, useState, useTransition } from "react";
 
 import { saveThemePreferenceAction } from "@/app/actions/preferences";
+import { useTheme } from "@/components/theme-provider";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { APP_THEMES, type AppTheme, isAppTheme } from "@/lib/theme-presets";

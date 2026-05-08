@@ -1,8 +1,8 @@
 "use client";
 
-import { useTheme } from "next-themes";
 import { Check } from "lucide-react";
 
+import { useTheme } from "@/components/theme-provider";
 import { APP_THEMES, type AppTheme } from "@/lib/theme-presets";
 import { cn } from "@/lib/utils";
 

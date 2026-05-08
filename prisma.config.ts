@@ -9,6 +9,8 @@ export default defineConfig({
     path: "prisma/migrations",
   },
   datasource: {
-    url: process.env["DATABASE_URL"] ?? "file:./dev.db",
+    url:
+      process.env["DATABASE_URL"] ??
+      "libsql://todolist-nesharp.aws-us-east-1.turso.io",
   },
 });

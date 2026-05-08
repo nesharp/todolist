@@ -33,13 +33,13 @@ export default async function RootLayout({
     <html
       lang="en"
       className={`${onest.variable} ${jetBrainsMono.variable} h-full antialiased`}
+      data-theme={savedTheme}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col">
         <ThemeProvider
           attribute="data-theme"
           defaultTheme={savedTheme}
-          enableSystem={false}
           themes={[...APP_THEMES]}
         >
           {children}
