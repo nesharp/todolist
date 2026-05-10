@@ -1,6 +1,8 @@
 "use server";
 
 import { revalidatePath } from "next/cache";
+import { headers } from "next/headers";
+import { auth } from "@/lib/auth";
 
 import { prisma } from "@/lib/prisma";
 import type { TaskItem } from "@/lib/types";
@@ -22,13 +24,16 @@ function toTaskItem(task: {
 }
 
 export async function createTaskAction(text: string): Promise<TaskItem> {
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session?.user) throw new Error("Unauthorized");
+
   const normalized = text.trim();
   if (normalized.length < 2) {
     throw new Error("Task text must be at least 2 characters");
   }
 
   const task = await prisma.task.create({
-    data: { text: normalized },
+    data: { text: normalized, userId: session.user.id },
   });
 
   revalidatePath("/");
@@ -39,8 +44,11 @@ export async function toggleTaskAction(
   id: string,
   completed: boolean
 ): Promise<void> {
-  await prisma.task.update({
-    where: { id },
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session?.user) throw new Error("Unauthorized");
+
+  await prisma.task.updateMany({
+    where: { id, userId: session.user.id },
     data: { completed },
   });
 
@@ -48,8 +56,11 @@ export async function toggleTaskAction(
 }
 
 export async function deleteTaskAction(id: string): Promise<void> {
-  await prisma.task.delete({
-    where: { id },
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session?.user) throw new Error("Unauthorized");
+
+  await prisma.task.deleteMany({
+    where: { id, userId: session.user.id },
   });
 
   revalidatePath("/");

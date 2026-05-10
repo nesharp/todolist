@@ -1,3 +1,5 @@
+import { auth } from "@/lib/auth";
+import { headers } from "next/headers";
 import { AppHeader } from "@/components/app-header";
 import { TodoApp } from "@/components/todo-app";
 import { getSavedThemePreference } from "@/lib/preferences";
@@ -6,13 +8,18 @@ import { prisma } from "@/lib/prisma";
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
+  const session = await auth.api.getSession({ headers: await headers() });
+
   const [tasks, savedTheme] = await Promise.all([
-    prisma.task
-      .findMany({
-        orderBy: { createdAt: "desc" },
-      })
-      .catch(() => []),
-    getSavedThemePreference(),
+    session?.user?.id
+      ? prisma.task
+          .findMany({
+            where: { userId: session.user.id },
+            orderBy: { createdAt: "desc" },
+          })
+          .catch(() => [])
+      : Promise.resolve([]),
+    getSavedThemePreference(session?.user?.id),
   ]);
 
   const serializedTasks = tasks.map((task) => ({

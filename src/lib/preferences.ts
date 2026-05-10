@@ -2,12 +2,11 @@ import { prisma } from "@/lib/prisma";
 import type { AppTheme } from "@/lib/theme-presets";
 import { isAppTheme } from "@/lib/theme-presets";
 
-const APP_PREF_ID = "global";
-
-export async function getSavedThemePreference(): Promise<AppTheme> {
+export async function getSavedThemePreference(userId?: string): Promise<AppTheme> {
+  if (!userId) return "light";
   try {
     const preference = await prisma.appPreference.findUnique({
-      where: { id: APP_PREF_ID },
+      where: { userId },
     });
 
     if (preference && isAppTheme(preference.theme)) {
@@ -19,5 +18,3 @@ export async function getSavedThemePreference(): Promise<AppTheme> {
 
   return "light";
 }
-
-export { APP_PREF_ID };

@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Check, Palette } from "lucide-react";
 import { useMemo, useState, useTransition } from "react";
 
+import { signIn, signOut, useSession } from "@/lib/auth-client";
 import { saveThemePreferenceAction } from "@/app/actions/preferences";
 import { useTheme } from "@/components/theme-provider";
 import { Button } from "@/components/ui/button";
@@ -44,6 +45,8 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [isSaving, startTransition] = useTransition();
 
+  const { data: session, isPending } = useSession();
+
   const activeTheme: AppTheme = useMemo(() => {
     if (theme && isAppTheme(theme)) return theme;
     return initialTheme;
@@ -82,23 +85,50 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
         </h1>
       </div>
 
-      <div className="relative sm:ml-auto">
-        <Button
-          type="button"
-          variant="outline"
-          className="h-11 w-full gap-2 rounded-xl px-4 text-sm sm:w-auto"
-          onClick={() => setIsOpen((prev) => !prev)}
-          aria-expanded={isOpen}
-          aria-haspopup="listbox"
-          aria-label="Select color theme"
-        >
-          <Palette className="h-4 w-4 shrink-0 text-primary" />
-          <span className="min-w-0 flex-1 truncate text-left">
-            {selectedLabel}
-          </span>
-        </Button>
+      <div className="relative sm:ml-auto flex items-center gap-4">
+        {session ? (
+          <div className="flex items-center gap-3">
+            <span className="hidden sm:inline-block text-sm font-medium">{session.user.name}</span>
+            <Button
+              variant="outline"
+              onClick={async () => {
+                await signOut();
+                window.location.reload();
+              }}
+              disabled={isPending}
+            >
+              Sign Out
+            </Button>
+          </div>
+        ) : (
+          <Button
+            variant="default"
+            onClick={async () => {
+              await signIn.social({ provider: "google" });
+            }}
+            disabled={isPending}
+          >
+            Sign In with Google
+          </Button>
+        )}
 
-        {isOpen ? (
+        <div className="relative">
+          <Button
+            type="button"
+            variant="outline"
+            className="h-11 w-full gap-2 rounded-xl px-4 text-sm sm:w-auto"
+            onClick={() => setIsOpen((prev) => !prev)}
+            aria-expanded={isOpen}
+            aria-haspopup="listbox"
+            aria-label="Select color theme"
+          >
+            <Palette className="h-4 w-4 shrink-0 text-primary" />
+            <span className="min-w-0 flex-1 truncate text-left">
+              {selectedLabel}
+            </span>
+          </Button>
+
+          {isOpen ? (
           <>
             <button
               type="button"
@@ -147,6 +177,7 @@ export function AppHeader({ initialTheme }: AppHeaderProps) {
             </div>
           </>
         ) : null}
+        </div>
       </div>
     </motion.header>
   );
