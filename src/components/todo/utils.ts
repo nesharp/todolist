@@ -46,6 +46,7 @@ export function createOptimisticTask(
     priority?: TaskItem["priority"];
     labels?: string[];
     important?: boolean;
+    projectId?: string | null;
   }
 ): UiTask {
   const created = new Date().toISOString();
@@ -57,6 +58,7 @@ export function createOptimisticTask(
     deadline: extras?.deadline ?? null,
     priority: extras?.priority ?? "NONE",
     labels: extras?.labels ?? [],
+    projectId: extras?.projectId ?? null,
     createdAt: created,
     updatedAt: created,
     isPending: true,

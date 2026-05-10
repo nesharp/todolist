@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { formatTodayDate, formatNowTime } from "./utils";
 import { motion, AnimatePresence } from "framer-motion";
 
-export function TodoHeader() {
+export function TodoHeader({ activeProjectLabel }: { activeProjectLabel: string }) {
   const [now, setNow] = useState<Date | null>(null);
 
   useEffect(() => {
@@ -23,7 +23,7 @@ export function TodoHeader() {
     <div className="mb-8 flex flex-col gap-4 border-b border-border/40 pb-6 md:flex-row md:items-end md:justify-between">
       <div className="space-y-1.5">
         <h2 className="text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-          My Tasks
+          {activeProjectLabel}
         </h2>
         <p className="text-base text-muted-foreground">
           Organize your day efficiently

@@ -53,34 +53,70 @@ test.describe("Todo app end-to-end", () => {
     await labelField.fill("e2e-label");
     await labelField.press("Enter");
 
-    await page.getByRole("button", { name: "Add" }).click();
+    await page.getByRole("button", { name: "Add", exact: true }).click();
     const taskList = page.getByRole("list", { name: "Task list" });
-    await expect(taskList.getByText(title, { exact: true })).toBeVisible();
+    const taskItem = taskList.locator("li").filter({ hasText: title });
+    await expect(taskItem).toBeVisible();
     await expect(input).toHaveValue("");
 
-    await expect(taskList.getByText("HIGH")).toBeVisible();
-    await expect(taskList.getByText("e2e-label")).toBeVisible();
+    await expect(taskItem.getByText("HIGH")).toBeVisible();
+    await expect(taskItem.getByText("e2e-label")).toBeVisible();
     await expect(
-      taskList.getByRole("button", { name: "Remove from important" })
+      taskItem.getByRole("button", { name: "Remove from important" })
     ).toBeVisible();
 
     await expect(page.getByText("Filter list")).toBeVisible();
     await page.getByTestId("filter-starred-only").click();
-    await expect(taskList.getByText(title, { exact: true })).toBeVisible();
+    await expect(taskItem).toBeVisible();
 
     await page.getByLabel("Filter by label").selectOption("e2e-label");
-    await expect(taskList.getByText(title, { exact: true })).toBeVisible();
+    await expect(taskItem).toBeVisible();
 
     await page.getByLabel("Filter by label").selectOption("");
     await page.getByTestId("filter-starred-only").click();
     await page.getByLabel("Filter by completion status").selectOption("all");
-    await taskList.getByRole("button", { name: "Mark as complete" }).click();
-    await expect(taskList.getByText(title, { exact: true })).toBeVisible();
+    await taskItem.getByRole("button", { name: "Mark as complete" }).click();
+    await expect(taskItem).toBeVisible();
 
-    await taskList.getByText(title, { exact: true }).hover();
-    await taskList.getByRole("button", { name: "Delete task" }).click({
+    await taskItem.hover();
+    await taskItem.getByRole("button", { name: "Delete task" }).click({
       force: true,
     });
-    await expect(taskList.getByText(title, { exact: true })).toHaveCount(0);
+    await expect(taskItem).toHaveCount(0);
+  });
+
+  test("create project, add task in project, task not listed in Inbox", async ({
+    page,
+  }) => {
+    const projectName = `E2E project ${Date.now()}`;
+    const taskTitle = `E2E project task ${Date.now()}`;
+
+    await page.getByRole("button", { name: "New Project" }).click();
+    await page.getByTestId("new-project-name").fill(projectName);
+    await page.getByTestId("new-project-submit").click();
+    await page.waitForURL((url) => url.searchParams.has("project"));
+
+    await expect(
+      page.getByRole("heading", { level: 2, name: projectName })
+    ).toBeVisible();
+
+    const input = page.getByPlaceholder("What needs to be done?");
+    await input.fill(taskTitle);
+    await page.getByRole("button", { name: "Add", exact: true }).click();
+
+    const taskList = page.getByRole("list", { name: "Task list" });
+    await expect(taskList.getByText(taskTitle, { exact: true })).toBeVisible();
+
+    await page.getByRole("navigation", { name: "Projects" }).getByRole("link", { name: "Inbox" }).click();
+    await page.waitForURL((url) => !url.searchParams.has("project"));
+
+    await expect(
+      page.getByRole("heading", { level: 2, name: "Inbox" })
+    ).toBeVisible();
+    await expect(
+      page.getByRole("list", { name: "Task list" }).getByText(taskTitle, {
+        exact: true,
+      })
+    ).toHaveCount(0);
   });
 });

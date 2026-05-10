@@ -1,4 +1,4 @@
-import type { TaskItem, TaskPriority } from "@/lib/types";
+import type { ProjectItem, TaskItem, TaskPriority } from "@/lib/types";
 
 const PRIORITIES: ReadonlySet<TaskPriority> = new Set([
   "NONE",
@@ -47,6 +47,7 @@ export function toTaskItem(task: {
   deadline: Date | null;
   priority: TaskPriority;
   labels: unknown;
+  projectId?: string | null;
   createdAt: Date;
   updatedAt: Date;
 }): TaskItem {
@@ -58,7 +59,22 @@ export function toTaskItem(task: {
     deadline: task.deadline ? task.deadline.toISOString() : null,
     priority: parsePriority(task.priority),
     labels: parseLabelsFromDb(task.labels),
+    projectId: task.projectId ?? null,
     createdAt: task.createdAt.toISOString(),
     updatedAt: task.updatedAt.toISOString(),
+  };
+}
+
+export function toProjectItem(project: {
+  id: string;
+  name: string;
+  createdAt: Date;
+  updatedAt: Date;
+}): ProjectItem {
+  return {
+    id: project.id,
+    name: project.name,
+    createdAt: project.createdAt.toISOString(),
+    updatedAt: project.updatedAt.toISOString(),
   };
 }

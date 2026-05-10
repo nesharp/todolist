@@ -8,11 +8,28 @@ import { prisma } from "@/lib/prisma";
 import { normalizeLabels, parsePriority, toTaskItem } from "@/lib/task-utils";
 import type { TaskItem, TaskPriority } from "@/lib/types";
 
+async function resolveProjectIdForCreate(
+  userId: string,
+  raw: string | null | undefined
+): Promise<string | null> {
+  if (raw === undefined || raw === null) return null;
+  const id = String(raw).trim();
+  if (!id || id.toLowerCase() === "inbox") return null;
+  const project = await prisma.project.findFirst({
+    where: { id, userId },
+    select: { id: true },
+  });
+  if (!project) throw new Error("Project not found");
+  return project.id;
+}
+
 export type CreateTaskOptions = {
   deadline?: string | null;
   priority?: TaskPriority;
   labels?: string[];
   important?: boolean;
+  /** Target project; omit or `null` / empty for inbox (no project). */
+  projectId?: string | null;
 };
 
 export async function createTaskAction(
@@ -38,6 +55,10 @@ export async function createTaskAction(
   const priority = parsePriority(options?.priority);
   const labels = normalizeLabels(options?.labels ?? []);
   const important = Boolean(options?.important);
+  const projectId = await resolveProjectIdForCreate(
+    session.user.id,
+    options?.projectId
+  );
 
   const task = await prisma.task.create({
     data: {
@@ -47,6 +68,7 @@ export async function createTaskAction(
       deadline,
       priority,
       labels,
+      projectId,
     },
   });
 

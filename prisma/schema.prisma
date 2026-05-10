@@ -20,20 +20,35 @@ enum TaskPriority {
 }
 
 model Task {
-  id        String        @id @default(cuid())
-  text      String
-  completed Boolean       @default(false)
-  important Boolean       @default(false)
-  deadline  DateTime?
-  priority  TaskPriority  @default(NONE)
-  labels    Json          @default("[]")
-  userId    String
-  user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
-  createdAt DateTime      @default(now())
-  updatedAt DateTime      @updatedAt
+  id         String        @id @default(cuid())
+  text       String
+  completed  Boolean       @default(false)
+  important  Boolean       @default(false)
+  deadline   DateTime?
+  priority   TaskPriority  @default(NONE)
+  labels     Json          @default("[]")
+  userId     String
+  user       User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  projectId  String?
+  project    Project?      @relation(fields: [projectId], references: [id], onDelete: SetNull)
+  createdAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
 
   @@index([userId])
   @@index([userId, deadline])
+  @@index([userId, projectId])
+}
+
+model Project {
+  id        String   @id @default(cuid())
+  name      String
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tasks     Task[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([userId])
 }
 
 model AppPreference {
@@ -57,6 +72,7 @@ model User {
   sessions      Session[]
   accounts      Account[]
   tasks         Task[]
+  projects      Project[]
   appPreference AppPreference?
 
   @@unique([email])

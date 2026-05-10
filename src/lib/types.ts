@@ -8,6 +8,14 @@ export type TaskItem = {
   deadline: string | null;
   priority: TaskPriority;
   labels: string[];
+  projectId: string | null;
+  createdAt: string;
+  updatedAt: string;
+};
+
+export type ProjectItem = {
+  id: string;
+  name: string;
   createdAt: string;
   updatedAt: string;
 };

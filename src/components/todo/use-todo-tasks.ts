@@ -20,9 +20,10 @@ import {
 
 type UseTodoTasksArgs = {
   initialTasks: UiTask[];
+  activeProjectId: string | null;
 };
 
-export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
+export function useTodoTasks({ initialTasks, activeProjectId }: UseTodoTasksArgs) {
   const [tasks, setTasks] = useState<UiTask[]>(initialTasks);
   const [newTask, setNewTask] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -57,6 +58,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
       priority: createOptions?.priority,
       labels,
       important: createOptions?.important,
+      projectId: activeProjectId,
     });
 
     setError(null);
@@ -69,6 +71,7 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
         const createdTask = await createTaskAction(text, {
           ...createOptions,
           labels,
+          projectId: activeProjectId,
         });
         setTasks((prev) =>
           sortByCreatedAtDesc(
