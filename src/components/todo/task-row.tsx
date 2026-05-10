@@ -2,7 +2,7 @@
 
 import type { UpdateTaskPayload } from "@/app/actions/tasks";
 import type { TaskPriority } from "@/lib/types";
-import { Trash2, Check, ListTree, Star } from "lucide-react";
+import { Trash2, Check, ListTree, Star, Timer } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useMemo, useState } from "react";
 
@@ -42,11 +42,13 @@ export function TaskRow({
   onToggle,
   onDelete,
   onUpdateTask,
+  onFocusTask,
 }: {
   task: UiTask;
   onToggle: (task: UiTask) => void;
   onDelete: (task: UiTask) => void;
   onUpdateTask: (task: UiTask, patch: Omit<UpdateTaskPayload, "id">) => void;
+  onFocusTask?: (taskId: string) => void;
 }) {
   const [editOpen, setEditOpen] = useState(false);
   const [draftDate, setDraftDate] = useState("");
@@ -215,6 +217,19 @@ export function TaskRow({
               className={cn("h-4 w-4", task.important && "fill-current")}
             />
           </Button>
+          {onFocusTask ? (
+            <Button
+              size="icon"
+              variant="ghost"
+              type="button"
+              disabled={task.isPending || task.completed}
+              onClick={() => onFocusTask(task.id)}
+              className="h-8 w-8 rounded-full text-muted-foreground opacity-0 transition-all hover:bg-accent/60 hover:text-primary group-hover:opacity-100 focus:opacity-100"
+              aria-label="Focus timer for this task"
+            >
+              <Timer className="h-4 w-4" />
+            </Button>
+          ) : null}
           <Button
             size="icon"
             variant="ghost"

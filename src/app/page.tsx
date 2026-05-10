@@ -2,7 +2,7 @@ import { auth } from "@/lib/auth";
 import { headers } from "next/headers";
 import { AppHeader } from "@/components/app-header";
 import { TodoApp } from "@/components/todo-app";
-import { getSavedThemePreference } from "@/lib/preferences";
+import { getSavedThemePreference, getSavedFocusTimerPrefs } from "@/lib/preferences";
 import { prisma } from "@/lib/prisma";
 import { toProjectItem, toTaskItem } from "@/lib/task-utils";
 
@@ -27,7 +27,7 @@ export default async function Home({
 
   const userId = session?.user?.id;
 
-  const [projectsRows, savedTheme] = await Promise.all([
+  const [projectsRows, savedTheme, savedFocusPrefs] = await Promise.all([
     userId
       ? prisma.project
           .findMany({
@@ -37,6 +37,7 @@ export default async function Home({
           .catch(() => [])
       : Promise.resolve([]),
     getSavedThemePreference(session?.user?.id),
+    getSavedFocusTimerPrefs(session?.user?.id),
   ]);
 
   const initialProjects = projectsRows.map(toProjectItem);
@@ -71,7 +72,7 @@ export default async function Home({
 
   return (
     <div className="min-h-screen w-full bg-background bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.15),rgba(255,255,255,0))]">
-      <div className="mx-auto max-w-6xl px-4 pb-20 pt-10 md:px-8 md:pt-16">
+      <div className="mx-auto max-w-6xl px-3 pb-16 pt-6 sm:px-4 sm:pb-20 sm:pt-8 md:px-8 md:pt-16">
         <AppHeader initialTheme={savedTheme} />
         <TodoApp
           key={activeProjectId ?? "inbox"}
@@ -79,6 +80,8 @@ export default async function Home({
           initialProjects={initialProjects}
           activeProjectId={activeProjectId}
           activeProjectLabel={activeProjectLabel}
+          initialFocusTimerPrefs={savedFocusPrefs}
+          persistFocusTimerPrefs={Boolean(userId)}
         />
       </div>
     </div>

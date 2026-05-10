@@ -91,7 +91,7 @@ export function ScheduleSidebar({ tasks }: { tasks: UiTask[] }) {
   const { today, upcoming } = partitionScheduleTasks(scheduled);
 
   return (
-    <aside className="flex w-full flex-col gap-4 lg:sticky lg:top-8 lg:max-w-xs lg:self-start">
+    <aside className="flex w-full flex-col gap-4">
       <SidebarSection
         title="Today"
         tasks={today}

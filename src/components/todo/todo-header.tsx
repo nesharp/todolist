@@ -20,9 +20,9 @@ export function TodoHeader({ activeProjectLabel }: { activeProjectLabel: string 
   const timeLabel = now ? formatNowTime(now) : "";
 
   return (
-    <div className="mb-8 flex flex-col gap-4 border-b border-border/40 pb-6 md:flex-row md:items-end md:justify-between">
+    <div className="mb-6 flex flex-col gap-4 border-b border-border/40 pb-5 md:mb-8 md:pb-6 md:flex-row md:items-end md:justify-between">
       <div className="space-y-1.5">
-        <h2 className="text-3xl font-bold tracking-tight text-foreground md:text-4xl">
+        <h2 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl md:text-4xl">
           {activeProjectLabel}
         </h2>
         <p className="text-base text-muted-foreground">

@@ -54,6 +54,7 @@ model Project {
 model AppPreference {
   id        String   @id
   theme     String   @default("light")
+  focusTimerPrefs Json?
   userId    String   @unique
   user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
   updatedAt DateTime @updatedAt

@@ -60,9 +60,9 @@ test.describe("Todo app end-to-end", () => {
     await expect(input).toHaveValue("");
 
     await expect(taskItem.getByText("HIGH")).toBeVisible();
-    await expect(taskItem.getByText("e2e-label")).toBeVisible();
+    await expect(taskItem.getByText("e2e-label").first()).toBeVisible();
     await expect(
-      taskItem.getByRole("button", { name: "Remove from important" })
+      taskItem.getByRole("button", { name: "Remove from important" }).first()
     ).toBeVisible();
 
     await expect(page.getByText("Filter list")).toBeVisible();
@@ -118,5 +118,13 @@ test.describe("Todo app end-to-end", () => {
         exact: true,
       })
     ).toHaveCount(0);
+  });
+
+  test("focus timer starts and shows Focus phase", async ({ page }) => {
+    const card = page.getByTestId("focus-timer-card");
+    await expect(card).toBeVisible();
+    await expect(card.getByText("Ready", { exact: true })).toBeVisible();
+    await card.getByRole("button", { name: "Start", exact: true }).click();
+    await expect(card.getByText("Focus", { exact: true })).toBeVisible();
   });
 });

@@ -16,6 +16,7 @@ export function TaskList({
   noMatchFilters,
   onClearFilters,
   emptyBecauseStatus,
+  onFocusTask,
 }: {
   tasks: UiTask[];
   onToggle: (task: UiTask) => void;
@@ -25,6 +26,7 @@ export function TaskList({
   onClearFilters?: () => void;
   /** Inbox has tasks but this view (e.g. active-only) is empty */
   emptyBecauseStatus?: boolean;
+  onFocusTask?: (taskId: string) => void;
 }) {
   return (
     <motion.ul layout className="space-y-3" aria-label="Task list">
@@ -106,6 +108,7 @@ export function TaskList({
               onToggle={onToggle}
               onDelete={onDelete}
               onUpdateTask={onUpdateTask}
+              onFocusTask={onFocusTask}
             />
           </motion.li>
         ))}
