@@ -2,28 +2,23 @@
 
 import { revalidatePath } from "next/cache";
 import { headers } from "next/headers";
+
 import { auth } from "@/lib/auth";
-
 import { prisma } from "@/lib/prisma";
-import type { TaskItem } from "@/lib/types";
+import { normalizeLabels, parsePriority, toTaskItem } from "@/lib/task-utils";
+import type { TaskItem, TaskPriority } from "@/lib/types";
 
-function toTaskItem(task: {
-  id: string;
-  text: string;
-  completed: boolean;
-  createdAt: Date;
-  updatedAt: Date;
-}): TaskItem {
-  return {
-    id: task.id,
-    text: task.text,
-    completed: task.completed,
-    createdAt: task.createdAt.toISOString(),
-    updatedAt: task.updatedAt.toISOString(),
-  };
-}
+export type CreateTaskOptions = {
+  deadline?: string | null;
+  priority?: TaskPriority;
+  labels?: string[];
+  important?: boolean;
+};
 
-export async function createTaskAction(text: string): Promise<TaskItem> {
+export async function createTaskAction(
+  text: string,
+  options?: CreateTaskOptions
+): Promise<TaskItem> {
   const session = await auth.api.getSession({ headers: await headers() });
   if (!session?.user) throw new Error("Unauthorized");
 
@@ -32,8 +27,104 @@ export async function createTaskAction(text: string): Promise<TaskItem> {
     throw new Error("Task text must be at least 2 characters");
   }
 
+  const deadline =
+    options?.deadline && options.deadline.trim()
+      ? new Date(options.deadline.trim())
+      : null;
+  if (deadline && Number.isNaN(deadline.getTime())) {
+    throw new Error("Invalid deadline");
+  }
+
+  const priority = parsePriority(options?.priority);
+  const labels = normalizeLabels(options?.labels ?? []);
+  const important = Boolean(options?.important);
+
   const task = await prisma.task.create({
-    data: { text: normalized, userId: session.user.id },
+    data: {
+      text: normalized,
+      userId: session.user.id,
+      important,
+      deadline,
+      priority,
+      labels,
+    },
+  });
+
+  revalidatePath("/");
+  return toTaskItem(task);
+}
+
+export type UpdateTaskPayload = {
+  id: string;
+  text?: string;
+  deadline?: string | null;
+  priority?: TaskPriority;
+  labels?: string[];
+  important?: boolean;
+};
+
+export async function updateTaskAction(
+  payload: UpdateTaskPayload
+): Promise<TaskItem> {
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session?.user) throw new Error("Unauthorized");
+
+  const { id } = payload;
+  if (!id) throw new Error("Missing task id");
+
+  const data: {
+    text?: string;
+    important?: boolean;
+    deadline?: Date | null;
+    priority?: TaskPriority;
+    labels?: string[];
+  } = {};
+
+  if (payload.text !== undefined) {
+    const t = payload.text.trim();
+    if (t.length < 2) throw new Error("Task text must be at least 2 characters");
+    data.text = t;
+  }
+
+  if (payload.deadline !== undefined) {
+    if (payload.deadline === null || !String(payload.deadline).trim()) {
+      data.deadline = null;
+    } else {
+      const d = new Date(String(payload.deadline).trim());
+      if (Number.isNaN(d.getTime())) throw new Error("Invalid deadline");
+      data.deadline = d;
+    }
+  }
+
+  if (payload.priority !== undefined) {
+    data.priority = parsePriority(payload.priority);
+  }
+
+  if (payload.labels !== undefined) {
+    data.labels = normalizeLabels(payload.labels);
+  }
+
+  if (payload.important !== undefined) {
+    data.important = Boolean(payload.important);
+  }
+
+  if (Object.keys(data).length === 0) {
+    const existing = await prisma.task.findFirst({
+      where: { id, userId: session.user.id },
+    });
+    if (!existing) throw new Error("Task not found");
+    return toTaskItem(existing);
+  }
+
+  const updated = await prisma.task.updateMany({
+    where: { id, userId: session.user.id },
+    data,
+  });
+
+  if (updated.count === 0) throw new Error("Task not found");
+
+  const task = await prisma.task.findFirstOrThrow({
+    where: { id, userId: session.user.id },
   });
 
   revalidatePath("/");

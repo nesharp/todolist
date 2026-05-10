@@ -12,16 +12,28 @@ datasource db {
   provider = "sqlite"
 }
 
+enum TaskPriority {
+  NONE
+  LOW
+  MEDIUM
+  HIGH
+}
+
 model Task {
-  id        String   @id @default(cuid())
+  id        String        @id @default(cuid())
   text      String
-  completed Boolean  @default(false)
+  completed Boolean       @default(false)
+  important Boolean       @default(false)
+  deadline  DateTime?
+  priority  TaskPriority  @default(NONE)
+  labels    Json          @default("[]")
   userId    String
-  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
 
   @@index([userId])
+  @@index([userId, deadline])
 }
 
 model AppPreference {

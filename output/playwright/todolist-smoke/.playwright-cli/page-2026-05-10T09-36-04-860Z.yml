@@ -1,0 +1,4 @@
+- generic [ref=e4]:
+  - heading "Welcome to Todo List" [level=2] [ref=e5]
+  - paragraph [ref=e6]: Please sign in with Google to start managing your tasks.
+  - button "Sign In with Google" [ref=e7]

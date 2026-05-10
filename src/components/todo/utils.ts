@@ -1,3 +1,5 @@
+import type { TaskItem } from "@/lib/types";
+
 import type { UiTask } from "./types";
 
 export function sortByCreatedAtDesc(tasks: UiTask[]) {
@@ -36,12 +38,25 @@ export function isTempTaskId(id: string) {
   return id.startsWith("temp-");
 }
 
-export function createOptimisticTask(text: string, optimisticId: string): UiTask {
+export function createOptimisticTask(
+  text: string,
+  optimisticId: string,
+  extras?: {
+    deadline?: string | null;
+    priority?: TaskItem["priority"];
+    labels?: string[];
+    important?: boolean;
+  }
+): UiTask {
   const created = new Date().toISOString();
   return {
     id: optimisticId,
     text,
     completed: false,
+    important: Boolean(extras?.important),
+    deadline: extras?.deadline ?? null,
+    priority: extras?.priority ?? "NONE",
+    labels: extras?.labels ?? [],
     createdAt: created,
     updatedAt: created,
     isPending: true,

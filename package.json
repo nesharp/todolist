@@ -3,14 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "kill-port 3000 && next dev --port 3000",
     "postinstall": "prisma generate",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "prisma:generate": "prisma generate",
-    "prisma:migrate": "DATABASE_URL=file:./dev.db prisma migrate dev",
-    "prisma:studio": "prisma studio"
+    "prisma:migrate": "DATABASE_URL=file:./prisma/dev.db prisma migrate dev",
+    "prisma:deploy": "DATABASE_URL=file:./prisma/dev.db prisma migrate deploy",
+    "prisma:studio": "prisma studio",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@libsql/client": "^0.17.3",
@@ -35,12 +37,14 @@
     "node": ">=20"
   },
   "devDependencies": {
+    "@playwright/test": "^1.52.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
+    "kill-port": "^2.0.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

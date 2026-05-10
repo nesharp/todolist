@@ -2,14 +2,21 @@
 
 import { useMemo, useState } from "react";
 
+import type { CreateTaskOptions, UpdateTaskPayload } from "@/app/actions/tasks";
 import {
   createTaskAction,
   deleteTaskAction,
   toggleTaskAction,
+  updateTaskAction,
 } from "@/app/actions/tasks";
+import { normalizeLabels } from "@/lib/task-utils";
 
 import type { UiTask } from "./types";
-import { createOptimisticTask, isTempTaskId, sortByCreatedAtDesc } from "./utils";
+import {
+  createOptimisticTask,
+  isTempTaskId,
+  sortByCreatedAtDesc,
+} from "./utils";
 
 type UseTodoTasksArgs = {
   initialTasks: UiTask[];
@@ -36,15 +43,21 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
   );
   const completed = tasks.length - remaining;
 
-  const addTask = () => {
+  const addTask = (createOptions?: CreateTaskOptions) => {
     const text = newTask.trim();
     if (text.length < 2) {
       setError("Enter at least 2 characters.");
       return;
     }
 
+    const labels = normalizeLabels(createOptions?.labels ?? []);
     const optimisticId = `temp-${crypto.randomUUID()}`;
-    const optimisticTask = createOptimisticTask(text, optimisticId);
+    const optimisticTask = createOptimisticTask(text, optimisticId, {
+      deadline: createOptions?.deadline ?? null,
+      priority: createOptions?.priority,
+      labels,
+      important: createOptions?.important,
+    });
 
     setError(null);
     setNewTask("");
@@ -53,7 +66,10 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
     beginMutation();
     void (async () => {
       try {
-        const createdTask = await createTaskAction(text);
+        const createdTask = await createTaskAction(text, {
+          ...createOptions,
+          labels,
+        });
         setTasks((prev) =>
           sortByCreatedAtDesc(
             prev.map((task) =>
@@ -67,6 +83,50 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
         setTasks((prev) => prev.filter((task) => task.id !== optimisticId));
         setNewTask(text);
         setError("Failed to save task to database.");
+      } finally {
+        endMutation();
+      }
+    })();
+  };
+
+  const updateTask = (task: UiTask, patch: Omit<UpdateTaskPayload, "id">) => {
+    if (isTempTaskId(task.id)) return;
+
+    const previous = { ...task };
+
+    setError(null);
+    setTasks((prev) =>
+      prev.map((item) =>
+        item.id === task.id
+          ? {
+              ...item,
+              ...patch,
+              isPending: true,
+            }
+          : item
+      )
+    );
+
+    beginMutation();
+    void (async () => {
+      try {
+        const updated = await updateTaskAction({ id: task.id, ...patch });
+        setTasks((prev) =>
+          sortByCreatedAtDesc(
+            prev.map((item) =>
+              item.id === task.id ? { ...updated, isPending: false } : item
+            )
+          )
+        );
+      } catch {
+        setTasks((prev) =>
+          prev.map((item) =>
+            item.id === task.id
+              ? { ...previous, isPending: false }
+              : item
+          )
+        );
+        setError("Failed to update task details.");
       } finally {
         endMutation();
       }
@@ -157,9 +217,9 @@ export function useTodoTasks({ initialTasks }: UseTodoTasksArgs) {
     total: tasks.length,
     setNewTask,
     addTask,
+    updateTask,
     toggleTask,
     deleteTask,
     clearError: () => setError(null),
   };
 }
-

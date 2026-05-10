@@ -1,0 +1,1621 @@
+[     188ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[     227ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[    1229ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[    2232ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[    3235ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[    4238ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[    5244ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   10253ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   15267ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   20280ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   25358ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   30469ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   35626ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   41126ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4a1RZqS1a0AJHLzsD3oTV' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   41177ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[   42203ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   45352ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   47601ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   50817ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   52862ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   55434ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   65175ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   73156ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   79349ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   88942ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[   95163ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  102906ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  110077ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=UwzgEebScGkyrnVyAsSFp' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  110150ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  114664ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  118674ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  123436ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  126312ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  129416ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  134000ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  143071ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  149184ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  156743ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  163738ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  171418ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  180744ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  189784ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=ZkaFcTyZiuYq7XVZXh2AY' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  189855ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  191915ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  196287ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  200108ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  206011ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  209862ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  215121ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  222076ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  228365ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  235712ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  240717ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  245721ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  250726ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  255731ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=yYvaYKV1QyYldjcgmqF_j' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  255798ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  255807ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  256813ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  257827ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  258851ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  259893ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  260951ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  266067ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  271314ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  276478ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  282102ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  288684ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  295407ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  303764ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=kfdyevP1QWgzJPKlV76uc' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  303834ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  308786ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  314311ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  317181ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  320065ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  324759ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  329730ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  338327ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  348010ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  356174ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  361178ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  366183ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  371189ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  376195ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LWhAIaG-xo_W86NkUQvTv' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  376267ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  376276ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  377282ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  378296ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  379317ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  380348ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  381404ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  386499ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  391765ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  397282ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  403321ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  410698ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  420535ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  429921ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=TPC10f9-vAMVNNbGCWMIG' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  429991ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  432244ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  434860ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  437775ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  440581ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  444361ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  447968ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  455562ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  464424ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  473390ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  482481ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  491558ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  499351ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  506282ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eQpX3iSs6QVhxPlMvGAoJ' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  506347ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  508217ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  512959ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  515688ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  520554ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  522627ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  525702ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  533751ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  543281ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  551257ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  557753ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  565695ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  574402ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  584149ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=oi9OHRigb60Onj0CtTTqo' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  584224ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  587079ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  589962ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  592460ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  596268ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  598608ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  600698ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  605701ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  610705ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  615710ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  620716ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  625721ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  630727ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  635739ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=LXtKjgvhJ4nzlszcv5S-g' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  635813ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  635835ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  636877ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  637927ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  639044ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  640149ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  641364ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  647546ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  654620ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  661867ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  670572ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  677332ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  685670ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  692830ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=4SQ2kIGLBVotlxY7oU4j5' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  692924ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  695771ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  700704ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  705132ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  709112ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  714218ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  717471ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  724345ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  729348ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  734350ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  739353ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  744355ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  749359ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  754363ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=eW7wIp1LXzSt-LLz2ttU-' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  754412ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  754422ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  755430ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  756450ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  757479ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  758640ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  759933ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  765171ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  770605ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  777779ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  785910ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  793649ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  794963ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  795008ms] [LOG] [Fast Refresh] done in 146ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  799498ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  799499ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799503ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799505ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799508ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799510ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799511ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799513ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799594ms] [LOG] [Fast Refresh] done in 112ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  799596ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799598ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  799600ms] Error: Internal Next.js error: Router action dispatched before initialization.
+    at dispatchAppRouterAction (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:916:37)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11823:61
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at Object.hmrRefresh (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:11822:40)
+    at http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13990:64
+    at startTransition (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:1279:31)
+    at processMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13989:44)
+    at WebSocket.handleMessage (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13358:52)
+[  823261ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=b0fJeZmd1QQBIUl7l09R3' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  824281ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  824551ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  824558ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  825892ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  825903ms] [LOG] [Fast Refresh] done in 112ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  848795ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  848873ms] [LOG] [Fast Refresh] done in 28ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  854050ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  854125ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  858267ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=KIYqthNKvHjH5wcnvWKsy' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  859271ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  859335ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  859344ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  881310ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  882310ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  883312ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  884314ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  885316ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  890319ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  895325ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  900331ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  905338ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  910342ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  915349ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[  920354ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=mDcwJmArkNmtyedFj5YhQ' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[ 1316722ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1316756ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1611573ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1611647ms] [LOG] [Fast Refresh] done in 119ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1637061ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1637110ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1638898ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1639177ms] [LOG] [Fast Refresh] done in 379ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1640584ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1640691ms] [LOG] [Fast Refresh] done in 54ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1641659ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1641760ms] [LOG] [Fast Refresh] done in 52ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1643138ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1643241ms] [LOG] [Fast Refresh] done in 134ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1644155ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1644267ms] [LOG] [Fast Refresh] done in 141ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1662563ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1662591ms] [LOG] [Fast Refresh] done in 51ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1679029ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1679061ms] [LOG] [Fast Refresh] done in 37ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1687185ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1687214ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1703916ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1704040ms] [LOG] [Fast Refresh] done in 66ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1731389ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1731687ms] [LOG] [Fast Refresh] done in 293ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1750281ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1750309ms] [LOG] [Fast Refresh] done in 28ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1751534ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1751563ms] [LOG] [Fast Refresh] done in 28ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1756127ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1756157ms] [LOG] [Fast Refresh] done in 31ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1769241ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1769270ms] [LOG] [Fast Refresh] done in 27ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1769516ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1769546ms] [LOG] [Fast Refresh] done in 19ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788089ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788193ms] [ERROR] ./src/components/todo/task-list.tsx:9:1
+Export TaskRow doesn't exist in target module
+   7 |
+   8 | import type { UiTask } from "./types";
+>  9 | import { TaskRow } from "./task-row";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | export function TaskList({
+  12 |   tasks,
+
+The export TaskRow was not found in module [project]/src/components/todo/task-row.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1788193ms] [ERROR] ./src/components/todo/task-list.tsx:9:1
+Export TaskRow doesn't exist in target module
+   7 |
+   8 | import type { UiTask } from "./types";
+>  9 | import { TaskRow } from "./task-row";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | export function TaskList({
+  12 |   tasks,
+
+The export TaskRow was not found in module [project]/src/components/todo/task-row.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1788328ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788388ms] [ERROR] ./src/components/todo/task-list.tsx:9:1
+Export TaskRow doesn't exist in target module
+   7 |
+   8 | import type { UiTask } from "./types";
+>  9 | import { TaskRow } from "./task-row";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | export function TaskList({
+  12 |   tasks,
+
+The export TaskRow was not found in module [project]/src/components/todo/task-row.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1788388ms] [ERROR] ./src/components/todo/task-list.tsx:9:1
+Export TaskRow doesn't exist in target module
+   7 |
+   8 | import type { UiTask } from "./types";
+>  9 | import { TaskRow } from "./task-row";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | export function TaskList({
+  12 |   tasks,
+
+The export TaskRow was not found in module [project]/src/components/todo/task-row.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1788392ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788407ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 1788552ms] [LOG] [Fast Refresh] done in 11ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788817ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1788824ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1789191ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1789240ms] [LOG] [Fast Refresh] done in 151ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1791352ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1791407ms] [LOG] [Fast Refresh] done in 24ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1793885ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1794091ms] [LOG] [Fast Refresh] done in 21ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1795746ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1795791ms] [LOG] [Fast Refresh] done in 25ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1798206ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1798344ms] [LOG] [Fast Refresh] done in 31ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1800237ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1800370ms] [LOG] [Fast Refresh] done in 37ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1802335ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1802474ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1811400ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1811557ms] [LOG] [Fast Refresh] done in 23ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1813451ms] [ERROR] ./src/components/todo/task-row.tsx:19:8
+Expected ',', got '{'
+  17 |   deadlineToDateInputValue,
+  18 |   formatDeadlineShort,
+> 19 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  20 |
+  21 | const priorityLabel: Record<TaskPriority, string> = {
+  22 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1813495ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1819290ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1819335ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1821577ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 1821623ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1833684ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1833727ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 1833742ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 1833754ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 1833807ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 1833836ms] Error: ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/components/todo/task-row.tsx:20:8)
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 1833836ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1833837ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1833850ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:3000/favicon.ico:0
+[ 1833910ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1833947ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1855762ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1855792ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 1855806ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 1855812ms] Error: ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/components/todo/task-row.tsx:20:8)
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 1855812ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1855812ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1855845ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1855930ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1855997ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1862766ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1862806ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 1862815ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 1862818ms] Error: ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/components/todo/task-row.tsx:20:8)
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 1862818ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1862819ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1862852ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1862915ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1862980ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1863628ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1863657ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 1863664ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 1863668ms] Error: ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/components/todo/task-row.tsx:20:8)
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 1863668ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1863670ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1863701ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1863747ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1863815ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1870354ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1870404ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1873563ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1873588ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 1873602ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 1873607ms] Error: ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/components/todo/task-row.tsx:20:8)
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 1873608ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1873609ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1873640ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1873724ms] [ERROR] ./src/components/todo/task-row.tsx:20:8
+Expected ',', got '{'
+  18 |   deadlineToDateInputValue,
+  19 |   formatDeadlineShort,
+> 20 | import { formatTaskCreatedAt } from "./utils";
+     |        ^
+  21 |
+  22 | const priorityLabel: Record<TaskPriority, string> = {
+  23 |   NONE: "None",
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-row.tsx [Client Component Browser]
+    ./src/components/todo/task-list.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-row.tsx [Client Component SSR]
+    ./src/components/todo/task-list.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 1873791ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1911932ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1911974ms] [LOG] [Fast Refresh] done in 32ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 1912446ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1912485ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1912677ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1912740ms] [LOG] [Fast Refresh] done in 164ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1951107ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1951131ms] [LOG] [Fast Refresh] done in 40ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1957299ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1957329ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1958667ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1958697ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1959646ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1959677ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2165948ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2166041ms] [LOG] [Fast Refresh] done in 195ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2170686ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2170734ms] [LOG] [Fast Refresh] done in 149ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2199553ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2199584ms] [LOG] [Fast Refresh] done in 47ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2206916ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2206948ms] [LOG] [Fast Refresh] done in 36ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2224537ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2224767ms] [LOG] [Fast Refresh] done in 110ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2224954ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2224992ms] [LOG] [Fast Refresh] done in 138ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2231563ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2231592ms] [LOG] [Fast Refresh] done in 25ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2232835ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2232864ms] [LOG] [Fast Refresh] done in 22ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2239085ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2239114ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2240450ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2240477ms] [LOG] [Fast Refresh] done in 24ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2242049ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2242084ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 2242214ms] [LOG] [Fast Refresh] done in 85ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2242357ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2242365ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2242972ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2243001ms] [LOG] [Fast Refresh] done in 46ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2247502ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2247564ms] [LOG] [Fast Refresh] done in 76ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2249945ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2250032ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2250376ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2250430ms] [LOG] [Fast Refresh] done in 155ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2251042ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2251088ms] [LOG] [Fast Refresh] done in 17ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2252619ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2252664ms] [LOG] [Fast Refresh] done in 25ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2253704ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2253750ms] [LOG] [Fast Refresh] done in 21ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2260795ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2260847ms] [LOG] [Fast Refresh] done in 22ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2262048ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2262102ms] [LOG] [Fast Refresh] done in 33ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2270259ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2270307ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2271558ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2271588ms] [LOG] [Fast Refresh] done in 43ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2280418ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2280479ms] [LOG] [Fast Refresh] done in 162ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2282292ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2282329ms] [LOG] [Fast Refresh] done in 138ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2283772ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2283801ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2285114ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2285142ms] [LOG] [Fast Refresh] done in 43ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2294433ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2294462ms] [LOG] [Fast Refresh] done in 47ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2307663ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2307692ms] [LOG] [Fast Refresh] done in 38ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2308111ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2308139ms] [LOG] [Fast Refresh] done in 25ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2432243ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2432274ms] [LOG] [Fast Refresh] done in 10ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2448459ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2448574ms] [LOG] [Fast Refresh] done in 215ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2449483ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2449546ms] [LOG] [Fast Refresh] done in 164ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2575351ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2575410ms] [LOG] [Fast Refresh] done in 79ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2591132ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2592564ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2592585ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2592618ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 2592644ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login?_rsc=06zRUfsMSCGZeM4t:0
+[ 2592661ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2592707ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 2592772ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[ 2592807ms] Error: ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component]
+
+
+    at Object.getCompilationErrors (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/nesharp/Documents/Pets/todolist/node_modules/next/dist/server/base-server.js:1753:26)
+[ 2592815ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 2592830ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 2592866ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 2592932ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 2592971ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 2597254ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 2597302ms] [ERROR] ./node_modules/@prisma/client/runtime/client.mjs
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+
+Caused by:
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Debug info:
+- An error occurred while generating the chunk item [project]/node_modules/@prisma/client/runtime/client.mjs [app-client] (ecmascript) <locals>
+- Execution of <EcmascriptModuleLocalsModule as EcmascriptChunkPlaceable>::chunk_item_content failed
+- Execution of *EcmascriptChunkItemContent::new failed
+- Execution of EcmascriptModuleContent::new failed
+- the chunking context (unknown) does not support external modules (request: node:module)
+
+Import trace:
+  Client Component Browser:
+    ./node_modules/@prisma/client/runtime/client.mjs [Client Component Browser]
+    ./src/generated/prisma/internal/prismaNamespace.ts [Client Component Browser]
+    ./src/generated/prisma/client.ts [Client Component Browser]
+    ./src/lib/prisma.ts [Client Component Browser]
+    ./src/lib/auth.ts [Client Component Browser]
+    ./src/app/login/login-form.tsx [Client Component Browser]
+    ./src/app/login/login-form.tsx [Server Component]
+    ./src/app/login/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[ 2597412ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 2597420ms] [LOG] [Fast Refresh] done in 110ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[ 2597562ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://127.0.0.1:3000/login:0
+[ 2597590ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2597599ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2597633ms] ReferenceError: isGoogleAuthConfigured is not defined
+    at LoginForm (http://127.0.0.1:3000/_next/static/chunks/src_01aa_sv._.js:174:22)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:15037:24)
+    at renderWithHooks (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:4620:24)
+    at updateFunctionComponent (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:6081:21)
+    at beginWork (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:6665:639)
+    at runWithFiberInDEV (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:965:74)
+    at performUnitOfWork (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:9555:97)
+    at workLoopSync (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:9449:40)
+    at renderRootSync (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:9433:13)
+    at performWorkOnRoot (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:9098:47)
+    at performWorkOnRootViaSchedulerTask (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js:10255:9)
+    at MessagePort.performWorkUntilDeadline (http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js:2647:64)
+[ 2597853ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2597854ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2597909ms] [LOG] [Fast Refresh] done in 19ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2598003ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2598014ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2598170ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2598281ms] [LOG] [Fast Refresh] done in 213ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2650916ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2650944ms] [LOG] [Fast Refresh] done in 37ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2651876ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2651903ms] [LOG] [Fast Refresh] done in 33ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2652534ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2652562ms] [LOG] [Fast Refresh] done in 24ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2654088ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2654116ms] [LOG] [Fast Refresh] done in 27ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2655056ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2655085ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2655653ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2655682ms] [LOG] [Fast Refresh] done in 29ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2656305ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2656334ms] [LOG] [Fast Refresh] done in 30ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2659741ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2659771ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2664886ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2664916ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2665770ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2665797ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2666530ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2666579ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2683052ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2683105ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2686622ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2686674ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2696678ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2696731ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2696902ms] [ERROR] ./src/components/todo/task-filters.tsx:122:25
+Expected '</', got 'ident'
+  120 |             aria-label="Filter by label"
+  121 |             value={value.label ?? ""}
+> 122 |               const v = e.target.value;
+      |                         ^
+  123 |               onChange({
+  124 |                 ...value,
+  125 |                 label: v === "" ? null : v,
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/components/todo/task-filters.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Client Component Browser]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/todo/task-filters.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Client Component SSR]
+    ./src/components/todo-app.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:3318
+[ 2696952ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2712766ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2712840ms] [LOG] [Fast Refresh] done in 43ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2730612ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2730691ms] [LOG] [Fast Refresh] done in 179ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2753317ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2753343ms] [LOG] [Fast Refresh] done in 32ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2770030ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2770038ms] [LOG] [Fast Refresh] done in 109ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2771194ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2771240ms] [LOG] [Fast Refresh] done in 148ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2776199ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2776250ms] [LOG] [Fast Refresh] done in 45ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2795711ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2795808ms] [LOG] [Fast Refresh] done in 198ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2860374ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2860438ms] [LOG] [Fast Refresh] done in 165ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2937258ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2937310ms] [LOG] [Fast Refresh] done in 152ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2967669ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 2967728ms] [LOG] [Fast Refresh] done in 160ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 3012305ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 3012334ms] [LOG] [Fast Refresh] done in 26ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 3031283ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 3031321ms] [LOG] [Fast Refresh] done in 138ms @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 3906485ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=Hd1U2vt2pvL4YW-SR-eTP' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[ 3907488ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=Hd1U2vt2pvL4YW-SR-eTP' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[ 3908492ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=Hd1U2vt2pvL4YW-SR-eTP' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[ 3909497ms] [ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=Hd1U2vt2pvL4YW-SR-eTP' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
